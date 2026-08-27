@@ -6,7 +6,7 @@ It is built using basic HTML and CSS and using the code editor- Visual Studio Co
 
 ## Pages Included
 
-1. homepage.html - The landing page with my profile picture and a short introduction.
+1. index.html - The landing page with my profile picture and a short introduction.
 2. about.html - Information about my background, current studies, and goals.
 3. interests.html - A breakdown of what I like to do in my free time, including art, manga, STEM, and photography.
 4. idols.html - A page dedicated to people who inspire me: Steve Jobs, Max Verstappen, and Batman.
