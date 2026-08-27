@@ -17,7 +17,7 @@ Keep all these files in the exact same folder so everything links properly:
 
 personal-site/
 
--homepage.html
+-index.html
 
 -about.html
 
