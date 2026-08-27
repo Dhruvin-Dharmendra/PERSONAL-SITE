@@ -1,42 +1,13 @@
 ## My Personal Website
 
-Hi, this is my personal website project. I made it to show a little bit about myself, my interests, and people I look up to.
+This personal website project was created to share basic details about who I am, what I like, and the people I look up to across four different web pages. 
 
-It is built using basic HTML and CSS and using the code editor- Visual Studio Code
+The main page introduces my name and profile picture, giving visitors a simple welcome to the site. 
 
-## Pages Included
+The second page goes into my background as a student, highlighting my interest in art, engineering, and Stem Activities.
 
-1. index.html - The landing page with my profile picture and a short introduction.
-2. about.html - Information about my background, current studies, and goals.
-3. interests.html - A breakdown of what I like to do in my free time, including art, manga, STEM, and photography.
-4. idols.html - A page dedicated to people who inspire me: Steve Jobs, Max Verstappen, and Batman.
+The third page details my main hobbies, which include drawing manga, studying science, and taking photographs when I am outside. 
 
-## Folder Structure
+The last page showcases my idols—Steve Jobs who has inspired me ever since i saw the first iphone being launched video on youtube and how he used to present the devices on stage, Max Verstappen being my favorite F1 driver he taught me to be tough, resilient and also to stay focused on the goal, and Batman whose motive and the thought behind doing something good for the community is what I admire.
 
-Keep all these files in the exact same folder so everything links properly:
-
-personal-site/
-
--index.html
-
--about.html
-
--interests.html
-
--idols.html
-
--style.css
-
--profile.jpg
-
--jobs.jpg
-
--verstappen.jpg
-
--batman.jpg
-
-## How to Run
-
-1. Download or clone this folder.
-2. Make sure your images (profile.jpg, jobs.jpg, verstappen.jpg, batman.jpg) are in the main directory.
-3. Open homepage.html in any browser like Chrome, Firefox, or Edge.
+All of these pages are connected using a shared top navigation menu and styled using basic HTML tags and a light pastel CSS theme to keep the design clean, friendly, and easy to read.
